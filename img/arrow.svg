@@ -1,0 +1,19 @@
+<svg width="7" height="15" viewBox="0 0 7 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs xmlns="http://www.w3.org/2000/svg">
+    <style>
+        g {
+            display: none;
+        }
+        g:target, g:target * {
+            display: inline;
+        }
+    </style>
+</defs>
+<g id="white">
+	<path d="M1.02344 1.74316L5.49951 7.65417L1.02344 13.5652" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>	
+</g>
+<g id="yellow">
+	<path d="M1.02344 1.74316L5.49951 7.65417L1.02344 13.5652" stroke="#DFB489" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>	
+</g>
+
+</svg>
